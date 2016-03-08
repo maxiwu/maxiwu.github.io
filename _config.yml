@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://maxiwu.github.io
+title: maxi.wu
+tagline: walls that hit along the way.
+description: #blog, #software dev, #learning, #troubleshoot, #glue, #server-side.
+paginate: 5
